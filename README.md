@@ -1,4 +1,4 @@
-### Proyecto final - Programación I
+### Proyecto final - Programación I - UMG
 
 #### Leonardo David Castañaza Cartagena - 3190-13-14281
 
